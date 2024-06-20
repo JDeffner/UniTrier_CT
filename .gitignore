@@ -30,6 +30,7 @@
 nbproject
 Thumbs.db
 /.vscode/
+/typo3conf/ext/bootstrap_package/
 # Local Netlify folder
 .netlify
 
@@ -41,4 +42,3 @@ Thumbs.db
 /dist-sass/
 /js/coverage/
 /node_modules/
-
