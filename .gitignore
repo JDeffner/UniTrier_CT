@@ -31,6 +31,7 @@ nbproject
 Thumbs.db
 /.vscode/
 /typo3conf/ext/bootstrap_package/
+/typo3conf/ext/introduction/
 # Local Netlify folder
 .netlify
 
